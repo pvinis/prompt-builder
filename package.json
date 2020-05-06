@@ -1,0 +1,17 @@
+{
+  "name": "prompt-builder",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "ts-node index.ts"
+  },
+  "dependencies": {
+    "chalk": "^4.0.0",
+    "typescript": "^3.8.3"
+  },
+  "devDependencies": {
+    "@types/chalk": "^2.2.0",
+    "ts-node": "^8.10.1"
+  }
+}
